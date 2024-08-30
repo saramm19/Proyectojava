@@ -22,7 +22,16 @@ MySQL: Base de datos MySQL instalada y configurada.
 Git: Para clonar el repositorio.
 
 
+aplicación de escritorio desarrollada en Java utilizando Apache NetBeans IDE 15. La aplicación se titula "Peluquería Canina" .
+está diseñada para gestionar una peluquería para mascotas.
 
+Ventana Principal: La interfaz contiene un título en la parte superior que dice "Peluquería Canina". Justo debajo, hay tres botones:
+
+Cargar Datos: Permite al usuario cargar información relevante.
+Ver Datos: Muestra los datos previamente cargados.
+Salir: Cierra la aplicación.
+
+Entorno de Desarrollo: En el fondo, se puede observar la estructura del proyecto en NetBeans, incluye varias clases organizadas en paquetes relacionados con la lógica, persistencia y control de la aplicación.
 
 
 ![Captura de pantalla (47)](https://github.com/user-attachments/assets/cd72c716-b1ff-4b95-a83b-b2cbe5fdca17)
