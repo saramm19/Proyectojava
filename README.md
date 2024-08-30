@@ -1,4 +1,4 @@
-Proyecto: Peluquería Canina
+# Título de Nivel 1 Proyecto: Peluquería Canina
 
 Descripción del Proyecto
 Este proyecto es una aplicación web para la gestión de una peluquería canina. Permite a los administradores gestionar citas, 
