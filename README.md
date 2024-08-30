@@ -25,4 +25,5 @@ Git: Para clonar el repositorio.
 
 
 
+![Captura de pantalla (47)](https://github.com/user-attachments/assets/cd72c716-b1ff-4b95-a83b-b2cbe5fdca17)
 
